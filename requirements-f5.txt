@@ -1,0 +1,17 @@
+# F5-TTS Dependencies (Windows Local)
+#
+# Setup (requires Python 3.10+, CUDA 12.8):
+#   1. Install PyTorch with CUDA:
+#      pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+#   2. Install dependencies:
+#      pip install -r requirements-f5.txt
+
+# F5-TTS
+f5-tts
+
+# Gradio for web UI
+gradio
+
+# Audio processing
+soundfile
+numpy
