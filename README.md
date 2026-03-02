@@ -95,7 +95,7 @@ _I almost didn’t go. I was tired, it was raining, and I’d already talked mys
 
 **Energetic/storytelling:**
 
-_Okay, so picture this. We’re standing at the top of the trail, the wind is absolutely howling, and my brother turns to me and says, completely straight-faced, "I think we should run it." And before I can say anything, he’s gone. Just — gone. Down the mountain like a lunatic._
+_Okay, so picture this. We’re standing at the top of the trail, the wind is absolutely howling, and my brother turns to me and says, completely straight-faced, “I think we should run it.” And before I can say anything, he’s gone. Just — gone. Down the mountain like a lunatic._
 
 **Dramatic/narrative:**
 
