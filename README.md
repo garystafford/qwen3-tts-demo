@@ -77,8 +77,31 @@ python f5_app.py
 
 ## Audio Samples
 
-```text
-Dr. Elena Vasquez had spent three decades studying ancient Mesopotamian architecture, but nothing in her archaeological career had prepared her for this. “The geometry is unequivocally deliberate,” she whispered. “Someone engineered a structure that our civilization shouldn’t have been capable of.”
+**Casual/nostalgic (the original):**
 
-“I walked through the garden yesterday, and you know what I noticed? The roses were already blooming. It surprised me, honestly. But then again, spring has been warmer than usual this year. Don’t you think?”
-```
+_I walked through the garden yesterday, and you know what I noticed? The roses were already blooming. It surprised me, honestly. But then again, spring has been warmer than usual this year. Don’t you think?_
+
+**Warm/reflective:**
+
+_The thing about old bookstores is the smell. You walk in and it hits you immediately — dust, paper, maybe a little coffee from the back. I found a first edition there once, just sitting on a shelf between two paperbacks. Nobody had noticed it. Can you imagine?_
+
+**Steady/explanatory:**
+ 
+_So the way it works is actually simpler than people think. You take the readings in the morning, compare them to the baseline, and if anything shifts more than two standard deviations, you flag it. Most days, nothing happens. But when it does, you want to be paying attention._
+
+**Quiet/intimate:**
+
+_I almost didn’t go. I was tired, it was raining, and I’d already talked myself out of it twice. But something made me grab my coat and walk out the door anyway. And I’m glad I did. Sometimes the things you almost skip turn out to be the ones you remember._
+
+**Energetic/storytelling:**
+
+_Okay, so picture this. We’re standing at the top of the trail, the wind is absolutely howling, and my brother turns to me and says, completely straight-faced, "I think we should run it." And before I can say anything, he’s gone. Just — gone. Down the mountain like a lunatic._
+
+**Dramatic/narrative:**
+
+_Dr. Elena Vasquez had spent three decades studying ancient Mesopotamian architecture, but nothing in her archaeological career had prepared her for this. “The geometry is unequivocally deliberate,” she whispered. “Someone engineered a structure that our civilization shouldn’t have been capable of.”_
+
+---
+
+_The contents of this repository represent my viewpoints and not those of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
+
