@@ -86,7 +86,7 @@ _I walked through the garden yesterday, and you know what I noticed? The roses w
 _The thing about old bookstores is the smell. You walk in and it hits you immediately — dust, paper, maybe a little coffee from the back. I found a first edition there once, just sitting on a shelf between two paperbacks. Nobody had noticed it. Can you imagine?_
 
 **Steady/explanatory:**
- 
+
 _So the way it works is actually simpler than people think. You take the readings in the morning, compare them to the baseline, and if anything shifts more than two standard deviations, you flag it. Most days, nothing happens. But when it does, you want to be paying attention._
 
 **Quiet/intimate:**
