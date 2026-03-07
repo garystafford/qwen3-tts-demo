@@ -101,6 +101,26 @@ _Okay, so picture this. We’re standing at the top of the trail, the wind is ab
 
 _Dr. Elena Vasquez had spent three decades studying ancient Mesopotamian architecture, but nothing in her archaeological career had prepared her for this. “The geometry is unequivocally deliberate,” she whispered. “Someone engineered a structure that our civilization shouldn’t have been capable of.”_
 
+## Audiobook Narration Voice Cloning Snippets (~10s)
+
+The samples above work well for conversational and character voices, but voice cloning for audiobook narration benefits from a dedicated reference clip. A good ~10s snippet should capture the neutral center of a narrator’s voice — steady pacing (~150 wpm), warm tone, clear articulation, and natural micro-pauses at clause boundaries. Avoid dialogue, exclamations, casual openers (“So...”), or second-person address, as these bias the cloned voice away from the settled, literary register that generalizes across fiction genres.
+
+**Literary/atmospheric:**
+
+_The house at the end of Harlow Street had been empty for eleven years. Its windows were dark, its garden overgrown, and the mailbox still bore a name no one in the neighborhood recognized. But on the first morning of October, someone turned the lights on._
+
+**Character-grounded, steady:**
+
+_She had a habit of arriving early and sitting near the back, where she could watch the room fill without being noticed. It was a small thing, but it told you everything about how she moved through the world — carefully, deliberately, always one step ahead._
+
+**Measured, reflective:**
+
+_There are places that hold memory the way old wood holds warmth. You walk in and feel it immediately — not nostalgia, exactly, but something close. A kind of stillness that tells you this room has seen a hundred quiet evenings just like this one._
+
+**Forward momentum, plot-like:**
+
+_The letter arrived on a Tuesday, folded twice and sealed with wax. Inside was a single paragraph, unsigned, written in a hand she didn’t recognize. She read it three times before setting it down. Then she picked up the phone and canceled everything._
+
 ---
 
 _The contents of this repository represent my viewpoints and not those of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
